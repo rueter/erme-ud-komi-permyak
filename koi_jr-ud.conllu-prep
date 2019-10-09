@@ -1,0 +1,271 @@
+# -:- coding= UTF-8 -:-
+# sent_id = PonomarevaLarisa_brat_2018:1
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
+# text = Ныв гижис ёртыслӧ гижӧт.
+# text_sms = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
+# text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
+# text_olo = Se tyttö kirjutti kirjazen dovarishalles.
+# text_mdf = Стирсь сёрмадсь сёрма ялганцты.
+
+# sent_id = PonomarevaLarisa_brat_2018:2a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Меным кажитчӧ, что зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+
+# sent_id = PonomarevaLarisa_brat_2018:2b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Кылӧ, зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+
+# sent_id = PonomarevaLarisa_brat_2018:2c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Тыдалӧ, зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+
+# sent_id = PonomarevaLarisa_brat_2018:2d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Зэрӧ, тыдалӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+
+# sent_id = PonomarevaLarisa_brat_2018:3a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Сія пондыліс чапкыны куритны да юны.
+# text_sms = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+# text_olo = Häi oppi heittiä kurindan da juondan.
+# text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+
+# sent_id = PonomarevaLarisa_brat_2018:3b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Сія пондыліс овны куриттӧг да вина ютӧг.
+# text_sms = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+# text_olo = Häi oppi heittiä kurindan da juondan.
+# text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+
+# sent_id = PonomarevaLarisa_brat_2018:4
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
+# text = Мунан бы?
+# text_sms = Haaʹlääk-a mõõnnâd?
+# text_fi = Haluatko mennä?
+# text_olo = Tahtotgo mennä?
+# text_mdf = Молелексолеть?
+
+# sent_id = PonomarevaLarisa_brat_2018:5a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Сэм, осьт ӧшынсӧ!
+# text_sms = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+# text_olo = Avua ikkun, Sam!
+# text_mdf = Панчк-ка вальмять, Самсон!
+
+# sent_id = PonomarevaLarisa_brat_2018:5b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Сэм, ӧшынсӧ осьт!
+# text_sms = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+# text_olo = Avua ikkun, Sam!
+# text_mdf = Панчк-ка вальмять, Самсон!
+
+# sent_id = PonomarevaLarisa_brat_2018:6
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
+# text = Сія тшӧктіс айкаыслӧ миссьӧтны машина.
+# text_sms = Son piiji kuõjâs põõssâd aaut.
+# text_fi = Hän pani miehensä pesemään auton.
+# text_olo = Häi pani ukon pezemäh mašinua.
+# text_mdf = Сон кошардозе мирденц машинань штама.
+
+# sent_id = PonomarevaLarisa_brat_2018:7a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн ордчӧн олісьыс краситӧм йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+
+# sent_id = PonomarevaLarisa_brat_2018:7b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн ордчӧн олісьыс краситӧма йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+
+# sent_id = PonomarevaLarisa_brat_2018:7c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн соседыс краситӧм йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+
+# sent_id = PonomarevaLarisa_brat_2018:7d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн соседыс краситӧма йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+
+# sent_id = PonomarevaLarisa_brat_2018:8a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэ айся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+
+# sent_id = PonomarevaLarisa_brat_2018:8b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэнат айся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+
+# sent_id = PonomarevaLarisa_brat_2018:8c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык айытся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+
+# sent_id = PonomarevaLarisa_brat_2018:8d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык, нежели тэнат айыт.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+
+# sent_id = PonomarevaLarisa_brat_2018:8e
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэнат ай сьӧрті.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+
+# sent_id = PonomarevaLarisa_brat_2018:9
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
+# text = Мери босьтіс бронза, Питер – эзысь, а Джейн – зарни.
+# text_sms = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
+# text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
+# text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
+# text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
+
+# sent_id = PonomarevaLarisa_brat_2018:10
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
+# text = Игаузу - этӧ ыджыт али учӧт страна?
+# text_sms = Lij-a Iguazu jõnn avi uʹcc jânnam?
+# text_fi = Onko Iguazu iso vai pieni maa?
+# text_olo = Ongo Iguazu suuri vai pieni mua?
+# text_mdf = Игуазсь оцю или ёмла мастор?
+
+# sent_id = PonomarevaLarisa_brat_2018:11
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
+# text = Эз позь бӧрйыны не Питер Смитӧс, не Мери Браунӧс.
+# text_sms = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
+# text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
+# text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
+# text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
+
+# sent_id = PonomarevaLarisa_brat_2018:12
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
+# text = Нія озӧ тӧдӧ, кин этӧ гижис.
+# text_sms = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
+# text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
+# text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
+# text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
+
+# sent_id = PonomarevaLarisa_brat_2018:13
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
+# text = Мый вылӧ тэ видзӧтан?
+# text_sms = Mâiʹd ǩiõččak?
+# text_fi = Mitä katsot?
+# text_olo = Midäbo kačot?
+# text_mdf = Мезень лангс ванат?
+
+# sent_id = PonomarevaLarisa_brat_2018:14
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
+# text = Кыдз тэ думайтан, кӧр тэ верман локны?
+# text_sms = Mâiʹd joordak što kuäʹss piâzzčiǩ?
+# text_fi = Milloin luulet voivasi tulla?
+# text_olo = Konzubo duumaičet voit tulla?
+# text_mdf = Кода арьсят, мзярда тон сават?
+
+# sent_id = PonomarevaLarisa_brat_2018:15
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
+# text = Сія босьтіс машина, а сылӧн воныс – дзир велосипед.
+# text_sms = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
+# text_fi = Hän osti auton mutta veljensä vain pyörän.
+# text_olo = Häi osti mašinan, ga hänen velleh pyörän.
+# text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
+
+# sent_id = PonomarevaLarisa_brat_2018:16
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
+# text = Питер да Мери кутчисисӧ да петісӧ жырись.
+# text_sms = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
+# text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
+# text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
+# text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
+
+# sent_id = PonomarevaLarisa_brat_2018:17
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
+# text = Сылӧ коліс басӧка лӧсьӧтны юрсисӧ, но мылякӧ сія лунӧ сылӧ эз вӧв охота сійӧ керны.
+# text_sms = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
+# text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
+# text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
+# text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
+
+# sent_id = PonomarevaLarisa_brat_2018:18a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Ме эг вермы сійӧ вӧтны, сідз кыдз сія ӧддьӧн чожа котӧртіс.
+# text_sms = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+# text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
+# text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+
+# sent_id = PonomarevaLarisa_brat_2018:18b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Ме эг вермы сійӧ вӧтны, ӧддьӧн чожа котӧртіс да.
+# text_sms = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+# text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
+# text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+
+# sent_id = PonomarevaLarisa_brat_2018:19
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
+# text = Эта гижӧтыс Петрасянь, и сійӧ вайисӧ тӧн.
+# text_sms = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
+# text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
+# text_olo = Tämä on kirjaine Peteras da se tuodih egläi.
+# text_mdf = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
+
+# sent_id = PonomarevaLarisa_brat_2018:20a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Сія быдмис Парижын, Франция юркарын.
+# text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
+
+# sent_id = PonomarevaLarisa_brat_2018:20b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Сія быдмис Парижын, Франциялӧн юркарын.
+# text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
+
