@@ -6,6 +6,11 @@
 # text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
 # text_olo = Se tyttö kirjutti kirjazen dovarishalles.
 # text_mdf = Стирсь сёрмадсь сёрма ялганцты.
+1	Ныв	ныв	NOUN	_	Sg|Nom	2	nsubj	_	_
+2	гижис	гижны	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	ёртыслӧ	ёрт	NOUN	_	Sg|Dat|PxSg3	2	obl	_	_
+4	гижӧт	гижӧт	NOUN	_	Sg|Nom	2	obj	_	_
+5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:2a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
@@ -14,6 +19,12 @@
 # text_fi = Luulen että sataa.
 # text_olo = Smietin, ku vihmuu.
 # text_mdf = Арьсян, пизем туй.
+1	Меным	ме	PRON	_	Pers|Sg1|Dat	2	obl	_	_
+2	кажитчӧ	кажитчӧ	VERB	_	Ind|Prs|Sg3	0	root	_	_
+3	,	,	CLB	_	_	5	punct	_	_
+4	что	что	CS	_	_	5	mark	_	_
+5	зэрӧ	зэрны	VERB	_	Ind|Prs|Sg3	2	csubj	_	_
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:2b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
@@ -22,6 +33,10 @@
 # text_fi = Luulen että sataa.
 # text_olo = Smietin, ku vihmuu.
 # text_mdf = Арьсян, пизем туй.
+1	Кылӧ	кывны	VERB	_	Ind|Prs|Sg3	0	root	_	_
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	зэрӧ	зэрны	VERB	_	Ind|Prs|Sg3	1	csubj	_	_
+4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:2c
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
@@ -30,6 +45,10 @@
 # text_fi = Luulen että sataa.
 # text_olo = Smietin, ku vihmuu.
 # text_mdf = Арьсян, пизем туй.
+1	Тыдалӧ	тыдавны	VERB	_	Ind|Prs|Sg3	0	root	_	_
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	зэрӧ	зэрны	VERB	_	Ind|Prs|Sg3	1	csubj	_	_
+4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:2d
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
@@ -38,6 +57,10 @@
 # text_fi = Luulen että sataa.
 # text_olo = Smietin, ku vihmuu.
 # text_mdf = Арьсян, пизем туй.
+1	Зэрӧ	зэрны	V	_	Ind|Prs|Sg3	3	csubj	_	_
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	тыдалӧ	тыдавны	V	_	Ind|Prs|Sg3	0	root	_	_
+4	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:3a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
@@ -46,6 +69,14 @@
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
 # text_olo = Häi oppi heittiä kurindan da juondan.
 # text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	пондыліс	пондывны	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	чапкыны	чапкыны	VERB	_	Inf	2	xcomp	_	_
+4	куритны	куритны	VERB	_	Inf	3	xcomp	_	_
+5	да	да	CC	_	_	6	cc	_	_
+6	юны	юны	VERB	_	Inf	4	conj	_	_
+7	.	.	PUNCT	CLB	_	2	punct	_	_
+
 
 # sent_id = PonomarevaLarisa_brat_2018:3b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
@@ -54,6 +85,14 @@
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
 # text_olo = Häi oppi heittiä kurindan da juondan.
 # text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	пондыліс	пондывны	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	овны	овны	VERB	_	Inf	4	cop	_	_
+4	куриттӧг	куритны	VERB	_	Conv|Car	2	xcomp	_	_
+5	да	да	CC	_	_	7	cc	_	_
+6	вина	вина	NOUN	_	Sg|Nom	7	obj	_	_
+7	ютӧг	юны	VERB	_	Conv|Car	4	conj	_	_
+8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:4
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
@@ -62,6 +101,13 @@
 # text_fi = Haluatko mennä?
 # text_olo = Tahtotgo mennä?
 # text_mdf = Молелексолеть?
+"<Мунан>"
+        "мунны" V Ind Prs Sg2
+: 
+"<бы>"
+        "бы" AUX
+"<?>"
+        "?" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:5a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
@@ -70,6 +116,18 @@
 # text_fi = Avaa ikkuna Sam!
 # text_olo = Avua ikkun, Sam!
 # text_mdf = Панчк-ка вальмять, Самсон!
+"<Сэм>"
+        "Сэм" N Prop Sg Nom
+"<,>"
+        "," CLB
+: 
+"<осьт>"
+        "осьтны" V Imprt Sg2
+: 
+"<ӧшынсӧ>"
+        "ӧшын" N Sg PxSg3 Acc"3"
+"<!>"
+        "!" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:5b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
@@ -78,6 +136,18 @@
 # text_fi = Avaa ikkuna Sam!
 # text_olo = Avua ikkun, Sam!
 # text_mdf = Панчк-ка вальмять, Самсон!
+"<Сэм>"
+        "Сэм" N Prop Sg Nom
+"<,>"
+        "," CLB
+: 
+"<ӧшынсӧ>"
+        "ӧшын" N Sg PxSg3 Acc"3"
+: 
+"<осьт>"
+        "осьтны" V Imprt Sg2
+"<!>"
+        "!" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:6
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
@@ -86,6 +156,22 @@
 # text_fi = Hän pani miehensä pesemään auton.
 # text_olo = Häi pani ukon pezemäh mašinua.
 # text_mdf = Сон кошардозе мирденц машинань штама.
+"<Сія>"
+        "сія" Pron Pers Sg3 Nom
+: 
+"<тшӧктіс>"
+        "тшӧктіс" ?
+: 
+"<айкаыслӧ>"
+        "айка" N Sg Dat PxSg3
+: 
+"<миссьӧтны>"
+        "миссьӧтны" V Inf
+: 
+"<машина>"
+        "машина" N Sg Nom
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:7a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -94,6 +180,22 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
+"<Петялӧн>"
+        "Петялӧн" N Prop Sg Gen
+: 
+"<ордчӧн>"
+        "ордчӧн"
+: 
+"<олісьыс>"
+        "олісьыс" ?
+: 
+"<краситӧм>"
+        "краситны" V Ind Prt2 Sg3
+: 
+"<йӧрсӧ>"
+        "йӧр" N Sg PxSg3 Acc"3"
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:7b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -110,6 +212,19 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
+"<Петялӧн>"
+        "Петялӧн" N Prop Sg Gen
+: 
+"<соседыс>"
+        "сосед" N Sg Nom PxSg3
+: 
+"<краситӧм>"
+        "краситны" V Ind Prt2 Sg3
+: 
+"<йӧрсӧ>"
+        "йӧр" N Sg PxSg3 Acc"3"
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:7d
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -126,6 +241,24 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
+"<Менам>"
+        "ме" Pron Pers Sg1 Gen"Stem"
+: 
+"<айӧ>"
+        "ай" N Sg Ill
+        "ай" N Sg Nom PxSg1
+: 
+"<буржык>"
+        "бур" A Der/жык Comp
+: 
+"<тэ>"
+        "тэ" Pron Pers Sg2 Cmp"l"
+        "тэ" Pron Pers Sg2 Nom
+: 
+"<айся>"
+        "ай" N Sg Cmpr
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:8b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -134,6 +267,24 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
+"<Менам>"
+        "ме" Pron Pers Sg1 Gen"Stem"
+: 
+"<айӧ>"
+        "ай" N Sg Ill
+        "ай" N Sg Nom PxSg1
+: 
+"<буржык>"
+        "бур" A Der/жык Comp
+: 
+"<тэнат>"
+        "тэ" Pron Pers Sg2 Gen
+        "тэ" Pron Pers Sg2 Gen"Stem"
+: 
+"<айся>"
+        "ай" N Sg Cmpr
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:8c
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -142,6 +293,20 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
+"<Менам>"
+        "ме" Pron Pers Sg1 Gen"Stem"
+: 
+"<айӧ>"
+        "ай" N Sg Ill
+        "ай" N Sg Nom PxSg1
+: 
+"<буржык>"
+        "бур" A Der/жык Comp
+: 
+"<айытся>"
+        "ай" N Sg Cmpr PxSg2
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:8d
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -150,6 +315,29 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
+"<Менам>"
+        "ме" Pron Pers Sg1 Gen"Stem"
+: 
+"<айӧ>"
+        "ай" N Sg Ill
+        "ай" N Sg Nom PxSg1
+: 
+"<буржык>"
+        "бур" A Der/жык Comp
+"<,>"
+        "," CLB
+: 
+"<нежели>"
+        "нежели" ?
+: 
+"<тэнат>"
+        "тэ" Pron Pers Sg2 Gen
+        "тэ" Pron Pers Sg2 Gen"Stem"
+: 
+"<айыт>"
+        "ай" N Sg Nom PxSg2
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:8e
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -158,6 +346,27 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
+"<Менам>"
+        "ме" Pron Pers Sg1 Gen"Stem"
+: 
+"<айӧ>"
+        "ай" N Sg Ill
+        "ай" N Sg Nom PxSg1
+: 
+"<буржык>"
+        "бур" A Der/жык Comp
+: 
+"<тэнат>"
+        "тэ" Pron Pers Sg2 Gen
+        "тэ" Pron Pers Sg2 Gen"Stem"
+: 
+"<ай>"
+        "ай" N Sg Nom
+: 
+"<сьӧрті>"
+        "сьӧр" N Sg"+Tra"
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:9
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
@@ -166,6 +375,40 @@
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
 # text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
 # text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
+"<Мери>"
+        "Мери" N Prop Sg Nom
+: 
+"<босьтіс>"
+        "босьтны" V Ind Prt1 Sg3
+: 
+"<бронза>"
+        "бронза" N Sg Nom
+"<,>"
+        "," CLB
+: 
+"<Питер>"
+        "Питер" N Prop Sg Nom
+: 
+"<–>"
+        "–" PUNCT
+: 
+"<эзысь>"
+        "эзысь" N Sg Nom
+"<,>"
+        "," CLB
+: 
+"<а>"
+        "а" CC
+: 
+"<Джейн>"
+        "Джейн" N Prop Sg Nom
+: 
+"<–>"
+        "–" PUNCT
+"<зарни>"
+        "зарни" A
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:10
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
@@ -174,6 +417,30 @@
 # text_fi = Onko Iguazu iso vai pieni maa?
 # text_olo = Ongo Iguazu suuri vai pieni mua?
 # text_mdf = Игуазсь оцю или ёмла мастор?
+"<Игаузу>"
+        "Игаузу" N Prop Sg Nom
+: 
+"<->"
+        "-" PUNCT
+: 
+"<этӧ>"
+        "этӧ" ?
+: 
+"<ыджыт>"
+        "ыджыт" A
+: 
+"<али>"
+        "али" Adv Pcle
+        "али" CC CC
+        "али" N Sg Nom
+: 
+"<учӧт>"
+        "учӧт" ?
+: 
+"<страна>"
+        "страна" N Sg Nom
+"<?>"
+        "?" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:11
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
@@ -182,6 +449,36 @@
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
 # text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
 # text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
+"<Эз>"
+        "оз" V Neg Ind Pr"t" Sg3
+: 
+"<позь>"
+        "позьны" V ConNeg
+: 
+"<бӧрйыны>"
+        "бӧрйыны" ?
+: 
+"<не>"
+        "не" Pcle
+: 
+"<Питер>"
+        "Питер" N Prop Sg Nom
+: 
+"<Смитӧс>"
+        "Смитӧс" N Prop Sg Acc
+"<,>"
+        "," CLB
+: 
+"<не>"
+        "не" Pcle
+: 
+"<Мери>"
+        "Мери" N Prop Sg Nom
+: 
+"<Браунӧс>"
+        "Браунӧс" ?
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
@@ -190,6 +487,29 @@
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
 # text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
+"<Нія>"
+        "нія" Pron Pers Pl3 Nom
+: 
+"<озӧ>"
+        "оз" V Neg Ind Prs Pl3
+: 
+"<тӧдӧ>"
+        "тӧд" N Sg Ill
+        "тӧд" N Sg Nom PxSg1
+        "тӧдны" V Ind Prs Sg3
+"<,>"
+        "," CLB
+: 
+"<кин>"
+        "кин" N Sg Nom
+: 
+"<этӧ>"
+        "этӧ" ?
+: 
+"<гижис>"
+        "гижны" V Ind Prt1 Sg3
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:13
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
@@ -198,6 +518,24 @@
 # text_fi = Mitä katsot?
 # text_olo = Midäbo kačot?
 # text_mdf = Мезень лангс ванат?
+"<Мый>"
+        "мый" CS
+: 
+"<вылӧ>"
+        "выв" N Sg Ill
+        "выв" N Sg Nom PxSg1
+        "вылын" Adv Spat Ill
+        "вылын" Po Spat Sg Ill Po
+        "вылӧ" Adp Po Spat Sg Ill Po
+: 
+"<тэ>"
+        "тэ" Pron Pers Sg2 Cmp"l"
+        "тэ" Pron Pers Sg2 Nom
+: 
+"<видзӧтан>"
+        "видзӧтны" V Ind Prs Sg2
+"<?>"
+        "?" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:14
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
@@ -206,6 +544,33 @@
 # text_fi = Milloin luulet voivasi tulla?
 # text_olo = Konzubo duumaičet voit tulla?
 # text_mdf = Кода арьсят, мзярда тон сават?
+"<Кыдз>"
+        "кыдз" Adv
+        "кыдз" N Sg Nom
+: 
+"<тэ>"
+        "тэ" Pron Pers Sg2 Cmp"l"
+        "тэ" Pron Pers Sg2 Nom
+: 
+"<думайтан>"
+        "думайтан" ?
+"<,>"
+        "," CLB
+: 
+"<кӧр>"
+        "кӧр" N Sg Nom
+        "кӧрны" V Imprt Sg2
+: 
+"<тэ>"
+        "тэ" Pron Pers Sg2 Cmp"l"
+: 
+"<верман>"
+        "верман" ?
+: 
+"<локны>"
+        "локны" ?
+"<?>"
+        "?" CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:15
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
@@ -214,6 +579,37 @@
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
 # text_olo = Häi osti mašinan, ga hänen velleh pyörän.
 # text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
+"<Сія>"
+        "сія" Pron Pers Sg3 Nom
+: 
+"<босьтіс>"
+        "босьтны" V Ind Prt1 Sg3
+: 
+"<машина>"
+        "машина" N Sg Nom
+"<,>"
+        "," CLB
+: 
+"<а>"
+        "а" CC CC
+: 
+"<сылӧн>"
+        "сія" Pron Pers Sg3 Cmp"l" Gen
+: 
+"<воныс>"
+        "во" N Sg Nom PxPl3
+        "вон" N Sg Nom PxSg3
+: 
+"<–>"
+        "–" PUNCT
+: 
+"<дзир>"
+        "дзир" N Sg Nom
+: 
+"<велосипед>"
+        "велосипед" N Sg Nom
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:16
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
@@ -222,6 +618,30 @@
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
 # text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
 # text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
+"<Питер>"
+        "Питер" N Prop Sg Nom
+: 
+"<да>"
+        "да" CC CC
+        "да" CS CS
+: 
+"<Мери>"
+        "Мери" N Prop Sg Nom
+: 
+"<кутчисисӧ>"
+        "кутчисисӧ" ?
+: 
+"<да>"
+        "да" CC CC
+        "да" CS CS
+: 
+"<петісӧ>"
+        "петны" V Ind Prt1 Pl3
+: 
+"<жырись>"
+        "жыр" N Sg Ela
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:17
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
@@ -230,6 +650,60 @@
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 # text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
 # text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
+"<Сылӧ>"
+        "сыв" N Sg Ill
+        "сыв" N Sg Nom PxSg1
+        "сывны" V Imprt Pl2
+        "сывны" V Ind Prs Sg3
+        "сія" Pron Pers Sg3 Cmp"l" Dat
+: 
+"<коліс>"
+        "ковны" V Ind Prt1 Sg3
+: 
+"<басӧка>"
+        "басӧк" Der/а
+: 
+"<лӧсьӧтны>"
+        "лӧсьӧтны" V Inf
+: 
+"<юрсисӧ>"
+        "юрси" N Sg PxSg3 Acc"3"
+"<,>"
+        "," CLB
+: 
+"<но>"
+        "но" CC
+: 
+"<мылякӧ>"
+        "мылякӧ" ?
+: 
+"<сія>"
+        "сія" Pron Pers Sg3 Nom
+"<лунӧ>"
+        "лун" N Sg Nom PxSg1
+: 
+"<сылӧ>"
+        "сыв" N Sg Ill
+        "сыв" N Sg Nom PxSg1
+        "сывны" V Ind Prs Sg3
+        "сія" Pron Pers Sg3 Cmp"l" Dat
+: 
+"<эз>"
+        "оз" V Neg Ind Pr"t" Sg3
+: 
+"<вӧв>"
+        "вӧвны" V ConNeg
+: 
+"<охота>"
+        "охота" ?
+: 
+"<сійӧ>"
+        "сія" Pron Pers Sg3"+Der/йӧ" Acc
+: 
+"<керны>"
+        "керны" V Inf
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:18a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
@@ -238,6 +712,46 @@
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+"<Ме>"
+        "ме" Pron Pers Sg1 Cmp"l"
+        "ме" Pron Pers Sg1 Nom
+: 
+"<эг>"
+        "оз" V Neg Ind Pr"t" Pl1
+        "оз" V Neg Ind Pr"t" Sg1
+: 
+"<вермы>"
+        "вермы" ?
+: 
+"<сійӧ>"
+        "сія" Pron Pers Sg3"+Der/йӧ" Acc
+: 
+"<вӧтны>"
+        "вӧтны" V ConNeg Pl3
+        "вӧтны" V Inf
+"<,>"
+        "," CLB
+: 
+"<сідз>"
+        "сідз" Adv
+: 
+"<кыдз>"
+        "кыдз" Adv
+        "кыдз" N Sg Nom
+: 
+"<сія>"
+        "сія" Pron Pers Sg3 Nom
+"<ӧддьӧн>"
+        "ӧддьӧн" Adv
+: 
+"<чожа>"
+        "чожа" A
+        "чожа" Adv
+: 
+"<котӧртіс>"
+        "котӧртны" V Ind Prt1 Sg3
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:18b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
@@ -246,6 +760,40 @@
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+"<Ме>"
+        "ме" Pron Pers Sg1 Cmp"l"
+        "ме" Pron Pers Sg1 Nom
+: 
+"<эг>"
+        "оз" V Neg Ind Pr"t" Pl1
+        "оз" V Neg Ind Pr"t" Sg1
+: 
+"<вермы>"
+        "вермы" ?
+: 
+"<сійӧ>"
+        "сія" Pron Pers Sg3"+Der/йӧ" Acc
+: 
+"<вӧтны>"
+        "вӧтны" V ConNeg Pl3
+        "вӧтны" V Inf
+"<,>"
+        "," CLB
+: 
+"<ӧддьӧн>"
+        "ӧддьӧн" Adv
+: 
+"<чожа>"
+        "чожа" A
+        "чожа" Adv
+: 
+"<котӧртіс>"
+        "котӧртны" V Ind Prt1 Sg3
+: 
+"<да>"
+        "да" CS CS
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:19
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
@@ -254,6 +802,31 @@
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
 # text_olo = Tämä on kirjaine Peteras da se tuodih egläi.
 # text_mdf = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
+"<Эта>"
+        "этайӧ" Pron Dem Sg Cmp"l"
+: 
+"<гижӧтыс>"
+        "гижӧт" N Sg Nom PxSg3
+: 
+"<Петрасянь>"
+        "Петрасянь" N Prop Sg Egr
+"<,>"
+        "," CLB
+: 
+"<и>"
+        "и" CC CC
+        "и" CS CS
+: 
+"<сійӧ>"
+        "сія" Pron Pers Sg3"+Der/йӧ" Acc
+: 
+"<вайисӧ>"
+        "вайны" V Ind Prt1 Pl3
+: 
+"<тӧн>"
+        "тӧн" ?
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:20a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
@@ -261,6 +834,24 @@
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
+"<Сія>"
+        "сія" Pron Pers Sg3 Nom
+: 
+"<быдмис>"
+        "быдмис" ?
+: 
+"<Парижын>"
+        "Парижын" N Prop Sg Ine
+"<,>"
+        "," CLB
+: 
+"<Франция>"
+        "Франция" N Prop Sg Nom
+: 
+"<юркарын>"
+        "юркар" N Sg Ine
+"<.>"
+        "." CLB
 
 # sent_id = PonomarevaLarisa_brat_2018:20b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
@@ -268,4 +859,21 @@
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
-
+"<Сія>"
+        "сія" Pron Pers Sg3 Nom
+: 
+"<быдмис>"
+        "быдмис" ?
+: 
+"<Парижын>"
+        "Парижын" N Prop Sg Ine
+"<,>"
+        "," CLB
+: 
+"<Франциялӧн>"
+        "Франция" N Prop Sg Gen
+: 
+"<юркарын>"
+        "юркар" N Sg Ine
+"<.>"
+        "." CLB
