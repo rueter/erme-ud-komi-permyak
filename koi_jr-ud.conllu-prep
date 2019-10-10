@@ -101,13 +101,9 @@
 # text_fi = Haluatko mennä?
 # text_olo = Tahtotgo mennä?
 # text_mdf = Молелексолеть?
-"<Мунан>"
-        "мунны" V Ind Prs Sg2
-: 
-"<бы>"
-        "бы" AUX
-"<?>"
-        "?" CLB
+1	Мунан	мунны	VERB	_	Ind|Prs|Sg2	0	root	_	_
+2	бы	бы	AUX	_	_	1	aux:cond	_	_
+3	?	?	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:5a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
@@ -116,18 +112,11 @@
 # text_fi = Avaa ikkuna Sam!
 # text_olo = Avua ikkun, Sam!
 # text_mdf = Панчк-ка вальмять, Самсон!
-"<Сэм>"
-        "Сэм" N Prop Sg Nom
-"<,>"
-        "," CLB
-: 
-"<осьт>"
-        "осьтны" V Imprt Sg2
-: 
-"<ӧшынсӧ>"
-        "ӧшын" N Sg PxSg3 Acc"3"
-"<!>"
-        "!" CLB
+1	Сэм	Сэм	PROPN	_	Prop|Sg|Nom	3	vocative	_	_
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	осьт	осьтны	VERB	_	Imprt|Sg2	0	root	_	_
+4	ӧшынсӧ	3	NOUN	_	Sg|Acc	3	obj	_	_
+5	!	!	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:5b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
@@ -136,18 +125,11 @@
 # text_fi = Avaa ikkuna Sam!
 # text_olo = Avua ikkun, Sam!
 # text_mdf = Панчк-ка вальмять, Самсон!
-"<Сэм>"
-        "Сэм" N Prop Sg Nom
-"<,>"
-        "," CLB
-: 
-"<ӧшынсӧ>"
-        "ӧшын" N Sg PxSg3 Acc"3"
-: 
-"<осьт>"
-        "осьтны" V Imprt Sg2
-"<!>"
-        "!" CLB
+1	Сэм	Сэм	PROPN	_	Prop|Sg|Nom	4	vocative	_	_
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	ӧшынсӧ	ӧшын	NOUN	_	Sg|Acc|PxSg3	4	obj	_	_
+4	осьт	осьтны	VERB	_	Imprt|Sg2	0	root	_	_
+5	!	!	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:6
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
@@ -156,22 +138,12 @@
 # text_fi = Hän pani miehensä pesemään auton.
 # text_olo = Häi pani ukon pezemäh mašinua.
 # text_mdf = Сон кошардозе мирденц машинань штама.
-"<Сія>"
-        "сія" Pron Pers Sg3 Nom
-: 
-"<тшӧктіс>"
-        "тшӧктіс" ?
-: 
-"<айкаыслӧ>"
-        "айка" N Sg Dat PxSg3
-: 
-"<миссьӧтны>"
-        "миссьӧтны" V Inf
-: 
-"<машина>"
-        "машина" N Sg Nom
-"<.>"
-        "." CLB
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	тшӧктіс	тшӧктіс	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	айкаыслӧ	айка	NOUN	_	Sg|Dat|PxSg3	2	obl	_	_
+4	миссьӧтны	миссьӧтны	VERB	_	Inf	2	xcomp	_	_
+5	машина	машина	NOUN	_	Sg|Nom	4	obj	_	_
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:7a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -180,22 +152,12 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
-"<Петялӧн>"
-        "Петялӧн" N Prop Sg Gen
-: 
-"<ордчӧн>"
-        "ордчӧн"
-: 
-"<олісьыс>"
-        "олісьыс" ?
-: 
-"<краситӧм>"
-        "краситны" V Ind Prt2 Sg3
-: 
-"<йӧрсӧ>"
-        "йӧр" N Sg PxSg3 Acc"3"
-"<.>"
-        "." CLB
+1	Петялӧн	Петялӧн	NOUN	_	Prop|Sg|Gen	3	nmod	_	_
+2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	_
+3	олісьыс	олісьыс	NOUN	_	Sg|Nom|PxSg3	4	nsubj	_	_
+4	краситӧм	краситны	VERB	_	Ind|Prt2|Sg3	0	root	_	_
+5	йӧрсӧ	йӧр	NOUN	_	Sg|Acc|PxSg3	4	obj	_	_
+6	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:7b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -204,6 +166,12 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	NOUN	_	Prop|Sg|Gen	3	nmod	_	_
+2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	_
+3	олісьыс	олісьыс	NOUN	_	Sg|Nom|PxSg3	4	nsubj	_	_
+4	краситӧма	краситны	VERB	_	Ind|Prt2|Sg3	0	root	_	_
+5	йӧрсӧ	йӧр	NOUN	_	Sg|Acc|PxSg3	4	obj	_	_
+6	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:7c
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -212,19 +180,11 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
-"<Петялӧн>"
-        "Петялӧн" N Prop Sg Gen
-: 
-"<соседыс>"
-        "сосед" N Sg Nom PxSg3
-: 
-"<краситӧм>"
-        "краситны" V Ind Prt2 Sg3
-: 
-"<йӧрсӧ>"
-        "йӧр" N Sg PxSg3 Acc"3"
-"<.>"
-        "." CLB
+1	Петялӧн	Петялӧн	PROPN	_	Prop|Sg|Gen	2	nmod	_	_
+2	соседыс	сосед	NOUN	_	Sg|Nom|PxSg3	3	nsubj	_	_
+3	краситӧм	краситны	VERB	_	Ind|Prt2|Sg3	0	root	_	_
+4	йӧрсӧ	йӧр	NOUN	_	Sg|Acc|PxSg3	3	obj	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:7d
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
@@ -233,6 +193,11 @@
 # text_fi = Peterin naapuri maalasi aidan.
 # text_olo = Peteran susiedu kruassi aijan.
 # text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	PROPN	_	Prop|Sg|Gen	2	nmod	_	_
+2	соседыс	сосед	NOUN	_	Sg|Nom|PxSg3	3	nsubj	_	_
+3	краситӧма	краситны	VERB	_	Ind|Prt2|Sg3	0	root	_	_
+4	йӧрсӧ	йӧр	NOUN	_	Sg|Acc|PxSg3	3	obj	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:8a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -241,24 +206,12 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
-"<Менам>"
-        "ме" Pron Pers Sg1 Gen"Stem"
-: 
-"<айӧ>"
-        "ай" N Sg Ill
-        "ай" N Sg Nom PxSg1
-: 
-"<буржык>"
-        "бур" A Der/жык Comp
-: 
-"<тэ>"
-        "тэ" Pron Pers Sg2 Cmp"l"
-        "тэ" Pron Pers Sg2 Nom
-: 
-"<айся>"
-        "ай" N Sg Cmpr
-"<.>"
-        "." CLB
+1	Менам	ме	PRON	_	Pers|Sg1|Gen	2	nmod	_	_
+2	айӧ	ай	NOUN	_	Sg|Nom|PxSg1	3	nsubj	_	_
+3	буржык	бур	ADJ	_	Der/жык|Comp	0	root	_	_
+4	тэ	тэ	PRON	_	Pers|Sg2|Nom	5	nmod	_	_
+5	айся	ай	NOUN	_	Sg|Cmpr	3	advcl	_	_
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:8b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -267,24 +220,12 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
-"<Менам>"
-        "ме" Pron Pers Sg1 Gen"Stem"
-: 
-"<айӧ>"
-        "ай" N Sg Ill
-        "ай" N Sg Nom PxSg1
-: 
-"<буржык>"
-        "бур" A Der/жык Comp
-: 
-"<тэнат>"
-        "тэ" Pron Pers Sg2 Gen
-        "тэ" Pron Pers Sg2 Gen"Stem"
-: 
-"<айся>"
-        "ай" N Sg Cmpr
-"<.>"
-        "." CLB
+1	Менам	ме	PRON	_	Pers|Sg1|Gen	2	nmod	_	_
+2	айӧ	ай	NOUN	_	Sg|Nom|PxSg1	3	nsubj	_	_
+3	буржык	бур	ADJ	_	Der/жык|Comp	0	root	_	_
+4	тэнат	тэ	PRON	_	Pers|Sg2|Gen	5	nmod	_	_
+5	айся	ай	NOUN	_	Sg|Cmpr	3	advcl	_	_
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:8c
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -293,20 +234,11 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
-"<Менам>"
-        "ме" Pron Pers Sg1 Gen"Stem"
-: 
-"<айӧ>"
-        "ай" N Sg Ill
-        "ай" N Sg Nom PxSg1
-: 
-"<буржык>"
-        "бур" A Der/жык Comp
-: 
-"<айытся>"
-        "ай" N Sg Cmpr PxSg2
-"<.>"
-        "." CLB
+1	Менам	ме	PRON	_	Pers|Sg1|Gen	2	nmod	_	_
+2	айӧ	ай	NOUN	_	Sg|Nom|PxSg1	3	nsubj	_	_
+3	буржык	бур	ADJ	_	Der/жык|Comp	0	root	_	_
+4	айытся	ай	NOUN	_	Sg|Cmpr|PxSg2	3	advcl	_	_
+5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:8d
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -315,29 +247,14 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
-"<Менам>"
-        "ме" Pron Pers Sg1 Gen"Stem"
-: 
-"<айӧ>"
-        "ай" N Sg Ill
-        "ай" N Sg Nom PxSg1
-: 
-"<буржык>"
-        "бур" A Der/жык Comp
-"<,>"
-        "," CLB
-: 
-"<нежели>"
-        "нежели" ?
-: 
-"<тэнат>"
-        "тэ" Pron Pers Sg2 Gen
-        "тэ" Pron Pers Sg2 Gen"Stem"
-: 
-"<айыт>"
-        "ай" N Sg Nom PxSg2
-"<.>"
-        "." CLB
+1	Менам	ме	PRON	_	Pers|Sg1|Gen	2	nmod	_	_
+2	айӧ	ай	NOUN	_	Sg|Nom|PxSg1	3	nsubj	_	_
+3	буржык	бур	ADJ	_	Der/жык|Comp	0	root	_	_
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	нежели	нежели	CS	_	_	7	mark	_	_
+6	тэнат	тэ	PRON	_	Pers|Sg2|Gen	7	nmod	_	_
+7	айыт	ай	NOUN	_	Sg|Nom|PxSg2	3	advcl	_	_
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:8e
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
@@ -346,27 +263,13 @@
 # text_fi = Isäsi on viileämpi kuin minun.
 # text_olo = Minun tuatto on kylmyverizembi migu sinun.
 # text_mdf = Алязе тонь алядот крутой.
-"<Менам>"
-        "ме" Pron Pers Sg1 Gen"Stem"
-: 
-"<айӧ>"
-        "ай" N Sg Ill
-        "ай" N Sg Nom PxSg1
-: 
-"<буржык>"
-        "бур" A Der/жык Comp
-: 
-"<тэнат>"
-        "тэ" Pron Pers Sg2 Gen
-        "тэ" Pron Pers Sg2 Gen"Stem"
-: 
-"<ай>"
-        "ай" N Sg Nom
-: 
-"<сьӧрті>"
-        "сьӧр" N Sg"+Tra"
-"<.>"
-        "." CLB
+1	Менам	ме	PRON	_	Pers|Sg1|Gen	2	nmod	_	_
+2	айӧ	ай	NOUN	_	Sg|Nom|PxSg1	3	nsubj	_	_
+3	буржык	бур	ADJ	_	Der/жык|Comp	0	root	_	_
+4	тэнат	тэ	PRON	_	Pers|Sg2|Gen	5	nmod	_	_
+5	ай	ай	NOUN	_	Sg|Nom	3	advcl	_	_
+6	сьӧрті	сьӧрті	ADP	_	_	5	case	_	_
+7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:9
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
