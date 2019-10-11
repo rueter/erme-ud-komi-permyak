@@ -1,0 +1,519 @@
+# -:- coding= UTF-8 -:-
+# sent_id = PonomarevaLarisa_brat_2018:1
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
+# text = Ныв гижис ёртыслӧ гижӧт.
+# text_sms = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
+# text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
+# text_olo = Se tyttö kirjutti kirjazen dovarishalles.
+# text_mdf = Стирсь сёрмадсь сёрма ялганцты.
+1	Ныв	ныв	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg|Nom
+2	гижис	гижны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	ёртыслӧ	ёрт	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg|Dat|PxSg3
+4	гижӧт	гижӧт	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg|Nom
+5	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:2a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Меным кажитчӧ, что зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+1	Меным	ме	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pers|Sg1|Dat
+2	кажитчӧ	кажитчӧ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg3
+3	,	,	CLB	_	_	5	punct	_	GTtags=_
+4	что	что	CS	_	_	5	mark	_	GTtags=_
+5	зэрӧ	зэрны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	csubj	_	GTtags=Ind|Prs|Sg3
+6	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:2b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Кылӧ, зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+1	Кылӧ	кывны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg3
+2	,	,	PUNCT	CLB	_	3	punct	_	GTtags=_
+3	зэрӧ	зэрны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	csubj	_	GTtags=Ind|Prs|Sg3
+4	.	.	PUNCT	CLB	_	1	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:2c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Тыдалӧ, зэрӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+1	Тыдалӧ	тыдавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg3
+2	,	,	PUNCT	CLB	_	3	punct	_	GTtags=_
+3	зэрӧ	зэрны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	csubj	_	GTtags=Ind|Prs|Sg3
+4	.	.	PUNCT	CLB	_	1	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:2d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
+# text = Зэрӧ, тыдалӧ.
+# text_sms = Joordam što âbrr.
+# text_fi = Luulen että sataa.
+# text_olo = Smietin, ku vihmuu.
+# text_mdf = Арьсян, пизем туй.
+1	Зэрӧ	зэрны	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	csubj	_	GTtags=Ind|Prs|Sg3
+2	,	,	PUNCT	CLB	_	1	punct	_	GTtags=_
+3	тыдалӧ	тыдавны	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg3
+4	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:3a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Сія пондыліс чапкыны куритны да юны.
+# text_sms = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+# text_olo = Häi oppi heittiä kurindan da juondan.
+# text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	пондыліс	пондывны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	чапкыны	чапкыны	VERB	_	VerbForm=Inf	2	xcomp	_	GTtags=Inf
+4	куритны	куритны	VERB	_	VerbForm=Inf	3	xcomp	_	GTtags=Inf
+5	да	да	CC	_	_	6	cc	_	GTtags=_
+6	юны	юны	VERB	_	VerbForm=Inf	4	conj	_	GTtags=Inf
+7	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+
+# sent_id = PonomarevaLarisa_brat_2018:3b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
+# text = Сія пондыліс овны куриттӧг да вина ютӧг.
+# text_sms = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
+# text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
+# text_olo = Häi oppi heittiä kurindan da juondan.
+# text_mdf = Сон тяряфтсь кадомс таргаманц и симоманц.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	пондыліс	пондывны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	овны	овны	VERB	_	VerbForm=Inf	4	cop	_	GTtags=Inf
+4	куриттӧг	куритны	VERB	_	Case=Car|VerbForm=Conv	2	xcomp	_	GTtags=Conv|Car
+5	да	да	CC	_	_	7	cc	_	GTtags=_
+6	вина	вина	NOUN	_	Case=Nom|Number=Sing	7	obj	_	GTtags=Sg|Nom
+7	ютӧг	юны	VERB	_	Case=Car|VerbForm=Conv	4	conj	_	GTtags=Conv|Car
+8	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:4
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
+# text = Мунан бы?
+# text_sms = Haaʹlääk-a mõõnnâd?
+# text_fi = Haluatko mennä?
+# text_olo = Tahtotgo mennä?
+# text_mdf = Молелексолеть?
+1	Мунан	мунны	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg2
+2	бы	бы	AUX	_	_	1	aux:cond	_	GTtags=_
+3	?	?	PUNCT	CLB	_	1	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:5a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Сэм, осьт ӧшынсӧ!
+# text_sms = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+# text_olo = Avua ikkun, Sam!
+# text_mdf = Панчк-ка вальмять, Самсон!
+1	Сэм	Сэм	PROPN	_	Case=Nom|Number=Sing	3	vocative	_	GTtags=Prop|Sg|Nom
+2	,	,	PUNCT	CLB	_	1	punct	_	GTtags=_
+3	осьт	осьтны	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt|Sg2
+4	ӧшынсӧ	3	NOUN	_	Acc|Number=Sing	3	obj	_	GTtags=Sg|Acc
+5	!	!	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:5b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
+# text = Сэм, ӧшынсӧ осьт!
+# text_sms = Ääʹved ikkân Sam!
+# text_fi = Avaa ikkuna Sam!
+# text_olo = Avua ikkun, Sam!
+# text_mdf = Панчк-ка вальмять, Самсон!
+1	Сэм	Сэм	PROPN	_	Case=Nom|Number=Sing	4	vocative	_	GTtags=Prop|Sg|Nom
+2	,	,	PUNCT	CLB	_	1	punct	_	GTtags=_
+3	ӧшынсӧ	ӧшын	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg|Acc|PxSg3
+4	осьт	осьтны	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Imprt|Sg2
+5	!	!	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:6
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
+# text = Сія тшӧктіс айкаыслӧ миссьӧтны машина.
+# text_sms = Son piiji kuõjâs põõssâd aaut.
+# text_fi = Hän pani miehensä pesemään auton.
+# text_olo = Häi pani ukon pezemäh mašinua.
+# text_mdf = Сон кошардозе мирденц машинань штама.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	тшӧктіс	тшӧктіс	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	айкаыслӧ	айка	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg|Dat|PxSg3
+4	миссьӧтны	миссьӧтны	VERB	_	VerbForm=Inf	2	xcomp	_	GTtags=Inf
+5	машина	машина	NOUN	_	Case=Nom|Number=Sing	4	obj	_	GTtags=Sg|Nom
+6	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:7a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн ордчӧн олісьыс краситӧм йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	GTtags=Prop|Sg|Gen
+2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	GTtags=_
+3	олісьыс	олісьыс	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg|Nom|PxSg3
+4	краситӧм	краситны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	0	root	_	GTtags=Ind|Prt2|Sg3
+5	йӧрсӧ	йӧр	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg|Acc|PxSg3
+6	.	.	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:7b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн ордчӧн олісьыс краситӧма йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	GTtags=Prop|Sg|Gen
+2	ордчӧн	ордчӧн	NOUN	_	_	3	nmod	_	GTtags=_
+3	олісьыс	олісьыс	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg|Nom|PxSg3
+4	краситӧма	краситны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	0	root	_	GTtags=Ind|Prt2|Sg3
+5	йӧрсӧ	йӧр	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg|Acc|PxSg3
+6	.	.	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:7c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн соседыс краситӧм йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop|Sg|Gen
+2	соседыс	сосед	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg|Nom|PxSg3
+3	краситӧм	краситны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	0	root	_	GTtags=Ind|Prt2|Sg3
+4	йӧрсӧ	йӧр	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg|Acc|PxSg3
+5	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:7d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
+# text = Петялӧн соседыс краситӧма йӧрсӧ.
+# text_sms = Peter räʹjjlaž kälkkii čuâl.
+# text_fi = Peterin naapuri maalasi aidan.
+# text_olo = Peteran susiedu kruassi aijan.
+# text_mdf = Петять шабрац архтозе перяфксть.
+1	Петялӧн	Петялӧн	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	GTtags=Prop|Sg|Gen
+2	соседыс	сосед	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg|Nom|PxSg3
+3	краситӧма	краситны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	0	root	_	GTtags=Ind|Prt2|Sg3
+4	йӧрсӧ	йӧр	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg|Acc|PxSg3
+5	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:8a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэ айся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers|Sg1|Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg|Nom|PxSg1
+3	буржык	бур	ADJ	_	Derivation=жык|Degree=Cmp	0	root	_	GTtags=Der/жык|Comp
+4	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers|Sg2|Nom
+5	айся	ай	NOUN	_	Case=Comp|Number=Sing	3	advcl	_	GTtags=Sg|Cmpr
+6	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:8b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэнат айся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers|Sg1|Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg|Nom|PxSg1
+3	буржык	бур	ADJ	_	Derivation=жык|Degree=Cmp	0	root	_	GTtags=Der/жык|Comp
+4	тэнат	тэ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers|Sg2|Gen
+5	айся	ай	NOUN	_	Case=Comp|Number=Sing	3	advcl	_	GTtags=Sg|Cmpr
+6	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:8c
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык айытся.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers|Sg1|Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg|Nom|PxSg1
+3	буржык	бур	ADJ	_	Derivation=жык|Degree=Cmp	0	root	_	GTtags=Der/жык|Comp
+4	айытся	ай	NOUN	_	Case=Comp|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	advcl	_	GTtags=Sg|Cmpr|PxSg2
+5	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:8d
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык, нежели тэнат айыт.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers|Sg1|Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg|Nom|PxSg1
+3	буржык	бур	ADJ	_	Derivation=жык|Degree=Cmp	0	root	_	GTtags=Der/жык|Comp
+4	,	,	PUNCT	CLB	_	7	punct	_	GTtags=_
+5	нежели	нежели	CS	_	_	7	mark	_	GTtags=_
+6	тэнат	тэ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	nmod	_	GTtags=Pers|Sg2|Gen
+7	айыт	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	advcl	_	GTtags=Sg|Nom|PxSg2
+8	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:8e
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
+# text = Менам айӧ буржык тэнат ай сьӧрті.
+# text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
+# text_fi = Isäsi on viileämpi kuin minun.
+# text_olo = Minun tuatto on kylmyverizembi migu sinun.
+# text_mdf = Алязе тонь алядот крутой.
+1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers|Sg1|Gen
+2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg|Nom|PxSg1
+3	буржык	бур	ADJ	_	Derivation=жык|Degree=Cmp	0	root	_	GTtags=Der/жык|Comp
+4	тэнат	тэ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers|Sg2|Gen
+5	ай	ай	NOUN	_	Case=Nom|Number=Sing	3	advcl	_	GTtags=Sg|Nom
+6	сьӧрті	сьӧрті	ADP	_	_	5	case	_	GTtags=_
+7	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:9
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
+# text = Мери босьтіс бронза, Питер – эзысь, а Джейн – зарни.
+# text_sms = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
+# text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
+# text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
+# text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
+1	Мери	Мери	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Prop|Sg|Nom
+2	босьтіс	босьтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	бронза	бронза	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg|Nom
+4	,	,	PUNCT	_	_	5	punct	_	GTtags=_
+5	Питер	Питер	PROPN	_	Case=Nom|Number=Sing	2	conj	_	GTtags=Prop|Sg|Nom
+6	–	–	PUNCT	_	_	5	punct	_	GTtags=_
+7	эзысь	эзысь	NOUN	_	Case=Nom|Number=Sing	5	orphan	_	GTtags=Sg|Nom
+8	,	,	PUNCT	CLB	_	10	punct	_	GTtags=_
+9	а	а	CC	_	_	10	cc	_	GTtags=_
+10	Джейн	Джейн	PROPN	_	Case=Nom|Number=Sing	2	conj	_	GTtags=Prop|Sg|Nom
+11	–	–	PUNCT	_	_	10	punct	_	GTtags=_
+12	зарни	зарни	NOUN	_	Case=Nom|Number=Sing	10	orphan	_	GTtags=Sg|Nom
+13	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:10
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
+# text = Игаузу - этӧ ыджыт али учӧт страна?
+# text_sms = Lij-a Iguazu jõnn avi uʹcc jânnam?
+# text_fi = Onko Iguazu iso vai pieni maa?
+# text_olo = Ongo Iguazu suuri vai pieni mua?
+# text_mdf = Игуазсь оцю или ёмла мастор?
+1	Игаузу	Игаузу	PROPN	_	Case=Nom|Number=Sing	4	dislocated	_	GTtags=Prop|Sg|Nom
+2	-	-	PUNCT	_	_	1	punct	_	GTtags=_
+3	этӧ	этӧ	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	GTtags=Dem|Sg|Nom
+4	ыджыт	ыджыт	ADJ	_	_	0	root	_	GTtags=_
+5	али	али	CC	_	_	7	cc	_	GTtags=_
+6	учӧт	учӧт	ADJ	_	_	7	amod	_	GTtags=_
+7	страна	страна	NOUN	_	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg|Nom
+8	?	?	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:11
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
+# text = Эз позь бӧрйыны не Питер Смитӧс, не Мери Браунӧс.
+# text_sms = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
+# text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
+# text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
+# text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
+1	Эз	t	AUX	_	_	3	aux:neg	_	GTtags=_
+2	позь	позьны	AUX	_	Connegative=Yes	3	aux	_	GTtags=ConNeg
+3	бӧрйыны	бӧрйыны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
+4	не	не	AUX	_	_	6	cc:preconj	_	GTtags=_
+5	Питер	Питер	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	GTtags=Prop|Sg|Nom
+6	Смитӧс	Смитӧс	PROPN	_	Acc|Number=Sing	3	obj	_	GTtags=Prop|Sg|Acc
+7	,	,	PUNCT	CLB	_	10	punct	_	GTtags=_
+8	не	не	AUX	_	_	10	cc	_	GTtags=_
+9	Мери	Мери	PROPN	_	Case=Nom|Number=Sing	10	nmod	_	GTtags=Prop|Sg|Nom
+10	Браунӧс	Браунӧс	PROPN	_	Acc|Number=Sing	6	conj	_	GTtags=Prop|Sg|Acc
+11	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:12
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
+# text = Нія озӧ тӧдӧ, кин этӧ гижис.
+# text_sms = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
+# text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
+# text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
+# text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
+1	Нія	нія	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers|Pl3|Nom
+2	озӧ	оз	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	3	aux:neg	_	GTtags=Neg|Ind|Prs|Pl3
+3	тӧдӧ	тӧдны	VERB	_	ConNegPl|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind|Prs|ConNegPl
+4	,	,	PUNCT	_	_	7	punct	_	GTtags=_
+5	кин	кин	PRON	_	Case=Nom|Number=Sing|PronType=Int	7	nsubj	_	GTtags=Interr|Sg|Nom
+6	этӧ	этӧ	PRON	_	Case=Nom|Number=Sing|PronType=Dem	7	obj	_	GTtags=Dem|Sg|Nom
+7	гижис	гижны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	3	ccomp	_	GTtags=Ind|Prt1|Sg3
+8	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:13
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
+# text = Мый вылӧ тэ видзӧтан?
+# text_sms = Mâiʹd ǩiõččak?
+# text_fi = Mitä katsot?
+# text_olo = Midäbo kačot?
+# text_mdf = Мезень лангс ванат?
+1	Мый	мый	PRON	_	Case=Nom|Number=Sing|PronType=Int	4	obl	_	GTtags=Interr|Sg|Nom
+2	вылӧ	вылӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	1	case	_	GTtags=Po|Spat|Sg|Ill
+3	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	GTtags=Pers|Sg2|Nom
+4	видзӧтан	видзӧтны	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg2
+5	?	?	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:14
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
+# text = Кыдз тэ думайтан, кӧр тэ верман локны?
+# text_sms = Mâiʹd joordak što kuäʹss piâzzčiǩ?
+# text_fi = Milloin luulet voivasi tulla?
+# text_olo = Konzubo duumaičet voit tulla?
+# text_mdf = Кода арьсят, мзярда тон сават?
+1	Кыдз	кыдз	ADV	_	PronType=Int	3	advmod	_	GTtags=Interr
+2	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	GTtags=Pers|Sg2|Nom
+3	думайтан	думайтан	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind|Prs|Sg2
+4	,	,	PUNCT	CLB	_	8	punct	_	GTtags=_
+5	кӧр	кӧр	CS	_	_	8	mark	_	GTtags=_
+6	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	GTtags=Pers|Sg2|Nom
+7	верман	верман	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	aux	_	GTtags=Ind|Prs|Sg2
+8	локны	локны	VERB	_	VerbForm=Inf	3	ccomp	_	GTtags=Inf
+9	?	?	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:15
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
+# text = Сія босьтіс машина, а сылӧн воныс – дзир велосипед.
+# text_sms = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
+# text_fi = Hän osti auton mutta veljensä vain pyörän.
+# text_olo = Häi osti mašinan, ga hänen velleh pyörän.
+# text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	босьтіс	босьтны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	машина	машина	NOUN	_	Case=Nom|Number=Sing	2	obj	_	GTtags=Sg|Nom
+4	,	,	PUNCT	CLB	_	7	punct	_	GTtags=_
+5	а	а	CC	_	_	7	cc	_	GTtags=_
+6	сылӧн	сія	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	GTtags=Pers|Sg3|Gen
+7	воныс	вон	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sg|Nom|PxSg3
+8	–	–	PUNCT	_	_	7	punct	_	GTtags=_
+9	дзир	дзир	ADV	_	Case=Nom|Number=Sing	7	orphan	_	GTtags=Sg|Nom
+10	велосипед	велосипед	NOUN	_	Case=Nom|Number=Sing	7	orphan	_	GTtags=Sg|Nom
+11	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:16
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
+# text = Питер да Мери кутчисисӧ да петісӧ жырись.
+# text_sms = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
+# text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
+# text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
+# text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
+1	Питер	Питер	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop|Sg|Nom
+2	да	да	CC	_	_	3	cc	_	GTtags=_
+3	Мери	Мери	PROPN	_	Case=Nom|Number=Sing	1	conj	_	GTtags=Prop|Sg|Nom
+4	кутчисисӧ	кутчисисӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Pl3
+5	да	да	CC	_	_	6	cc	_	GTtags=_
+6	петісӧ	петны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Prt1	4	conj	_	GTtags=Ind|Prt1|Pl3
+7	жырись	жыр	NOUN	_	Case=Ela|Number=Sing	6	obl	_	GTtags=Sg|Ela
+8	.	.	PUNCT	CLB	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:17
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
+# text = Сылӧ коліс басӧка лӧсьӧтны юрсисӧ, но мылякӧ сія лунӧ сылӧ эз вӧв охота сійӧ керны.
+# text_sms = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
+# text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
+# text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
+# text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
+1	Сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers|Sg3|Dat
+2	коліс	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	4	aux	_	GTtags=Ind|Prt1|Sg3
+3	басӧка	басӧка	ADV	_	_	4	advmod	_	GTtags=_
+4	лӧсьӧтны	лӧсьӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
+5	юрсисӧ	юрси	NOUN	_	Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obj	_	GTtags=Sg|Acc|PxSg3
+6	,	,	PUNCT	_	_	14	punct	_	GTtags=_
+7	но	но	CC	_	_	14	cc	_	GTtags=_
+8	мылякӧ	мылякӧ	ADV	_	Definite=Ind	14	advmod	_	GTtags=Indef
+9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	det	_	GTtags=Pers|Sg3|Nom
+10	лунӧ	лун	NOUN	_	Case=Ill|Number=Sing	14	obl	_	GTtags=Sg|Ill
+11	сылӧ	сія	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	GTtags=Pers|Sg3|Dat
+12	эз	t	AUX	_	_	14	aux:neg	_	GTtags=_
+13	вӧв	вӧвны	AUX	_	Connegative=Yes	14	cop	_	GTtags=ConNeg
+14	охота	охота	NOUN	_	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg|Nom
+15	сійӧ	сія	PRON	_	Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	GTtags=Pers|Sg3|Acc
+16	керны	керны	VERB	_	VerbForm=Inf	14	advcl	_	GTtags=Inf
+17	.	.	PUNCT	_	_	4	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:18a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Ме эг вермы сійӧ вӧтны, сідз кыдз сія ӧддьӧн чожа котӧртіс.
+# text_sms = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+# text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
+# text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+1	Ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers|Sg1|Nom
+2	эг	оз	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Prt1	5	aux:neg	_	GTtags=Neg|Ind|Prt1|Sg1
+3	вермы	вермы	AUX	_	Connegative=Yes	5	aux	_	GTtags=ConNeg
+4	сійӧ	сія	PRON	_	Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	GTtags=Pers|Sg3|Acc
+5	вӧтны	вӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
+6	,	,	PUNCT	_	_	12	punct	_	GTtags=_
+7	сідз	сідз	ADV	_	_	8	fixed	_	GTtags=_
+8	кыдз	кыдз	ADV	_	_	12	mark	_	GTtags=_
+9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	GTtags=Pers|Sg3|Nom
+10	ӧддьӧн	ӧддьӧн	ADV	_	_	12	advmod	_	GTtags=_
+11	чожа	чожа	ADV	_	_	12	advmod	_	GTtags=_
+12	котӧртіс	котӧртны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	5	ccomp	_	GTtags=Ind|Prt1|Sg3
+13	.	.	PUNCT	_	_	5	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:18b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
+# text = Ме эг вермы сійӧ вӧтны, ӧддьӧн чожа котӧртіс да.
+# text_sms = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
+# text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
+# text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
+# text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
+1	Ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers|Sg1|Nom
+2	эг	оз	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Prt1	5	aux:neg	_	GTtags=Neg|Ind|Prt1|Sg1
+3	вермы	вермы	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres	5	aux	_	GTtags=Ind|Prs|ConNeg
+4	сійӧ	сія	PRON	_	Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	GTtags=Pers|Sg3|Acc
+5	вӧтны	вӧтны	VERB	_	VerbForm=Inf	0	root	_	GTtags=Inf
+6	,	,	PUNCT	_	_	9	punct	_	GTtags=_
+7	ӧддьӧн	ӧддьӧн	ADV	_	_	9	advmod	_	GTtags=_
+8	чожа	чожа	ADV	_	_	9	advmod	_	GTtags=_
+9	котӧртіс	котӧртны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	5	ccomp	_	GTtags=Ind|Prt1|Sg3
+10	да	да	CS	_	_	9	mark	_	GTtags=_
+11	.	.	PUNCT	_	_	5	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:19
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
+# text = Эта гижӧтыс Петрасянь, и сійӧ вайисӧ тӧн.
+# text_sms = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
+# text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
+# text_olo = Tämä on kirjaine Peteras da se tuodih egläi.
+# text_mdf = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
+1	Эта	этайӧ	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem|Sg|Nom
+2	гижӧтыс	гижӧт	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg|Nom|PxSg3
+3	Петрасянь	Петрасянь	PROPN	_	Egr|Number=Sing	0	root	_	GTtags=Prop|Sg|Egr
+4	,	,	PUNCT	CLB	_	7	punct	_	GTtags=_
+5	и	и	CC	_	_	7	cc	_	GTtags=_
+6	сійӧ	сія	PRON	_	Acc|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers|Sg3|Acc
+7	вайисӧ	вайны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Prt1	3	conj	_	GTtags=Ind|Prt1|Pl3
+8	тӧн	тӧн	ADV	_	_	7	advmod	_	GTtags=_
+9	.	.	PUNCT	CLB	_	3	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:20a
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Сія быдмис Парижын, Франция юркарын.
+# text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
+# text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	быдмис	быдмис	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	Парижын	Парижын	PROPN	_	Case=Ine|Number=Sing	2	obl	_	GTtags=Prop|Sg|Ine
+4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=_
+5	Франция	Франция	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	GTtags=Prop|Sg|Nom
+6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg|Ine
+7	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
+
+# sent_id = PonomarevaLarisa_brat_2018:20b
+# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
+# text = Сія быдмис Парижын, Франциялӧн юркарын.
+# text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
+# text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
+1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers|Sg3|Nom
+2	быдмис	быдмис	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt1	0	root	_	GTtags=Ind|Prt1|Sg3
+3	Парижын	Парижын	NOUN	_	Case=Ine|Number=Sing	2	obl	_	GTtags=Prop|Sg|Ine
+4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=_
+5	Франциялӧн	Франция	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	GTtags=Prop|Sg|Gen
+6	юркарын	юркар	NOUN	_	Case=Ine|Number=Sing	3	appos	_	GTtags=Sg|Ine
+7	.	.	PUNCT	CLB	_	2	punct	_	GTtags=_
