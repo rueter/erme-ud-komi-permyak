@@ -496,20 +496,13 @@
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
-"<Сія>"
-        "сія" Pron Pers Sg3 Nom
-"<быдмис>"
-        "быдмис" V Ind Prt1 Sg3
-"<Парижын>"
-        "Парижын" N Prop Sg Ine
-"<,>"
-        "," CLB
-"<Франция>"
-        "Франция" N Prop Sg Nom
-"<юркарын>"
-        "юркар" N Sg Ine
-"<.>"
-        "." CLB
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	быдмис	быдмис	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	Парижын	Парижын	PROPN	_	Prop|Sg|Ine	2	obl	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	Франция	Франция	PROPN	_	Prop|Sg|Nom	6	nmod	_	_
+6	юркарын	юркар	NOUN	_	Sg|Ine	3	appos	_	_
+7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:20b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
@@ -517,21 +510,10 @@
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
-"<Сія>"
-        "сія" Pron Pers Sg3 Nom
-: 
-"<быдмис>"
-        "быдмис" ?
-: 
-"<Парижын>"
-        "Парижын" N Prop Sg Ine
-"<,>"
-        "," CLB
-: 
-"<Франциялӧн>"
-        "Франция" N Prop Sg Gen
-: 
-"<юркарын>"
-        "юркар" N Sg Ine
-"<.>"
-        "." CLB
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	быдмис	быдмис	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	Парижын	Парижын	NOUN	_	Prop|Sg|Ine	2	obl	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	Франциялӧн	Франция	NOUN	_	Prop|Sg|Gen	6	nmod	_	_
+6	юркарын	юркар	NOUN	_	Sg|Ine	3	appos	_	_
+7	.	.	PUNCT	CLB	_	2	punct	_	_
