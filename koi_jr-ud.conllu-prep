@@ -278,40 +278,19 @@
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
 # text_olo = Mary voitti bronzumedalin, Peter hobjumedalin da Jane kuldumedalin.
 # text_mdf = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
-"<Мери>"
-        "Мери" N Prop Sg Nom
-: 
-"<босьтіс>"
-        "босьтны" V Ind Prt1 Sg3
-: 
-"<бронза>"
-        "бронза" N Sg Nom
-"<,>"
-        "," CLB
-: 
-"<Питер>"
-        "Питер" N Prop Sg Nom
-: 
-"<–>"
-        "–" PUNCT
-: 
-"<эзысь>"
-        "эзысь" N Sg Nom
-"<,>"
-        "," CLB
-: 
-"<а>"
-        "а" CC
-: 
-"<Джейн>"
-        "Джейн" N Prop Sg Nom
-: 
-"<–>"
-        "–" PUNCT
-"<зарни>"
-        "зарни" A
-"<.>"
-        "." CLB
+1	Мери	Мери	PROPN	_	Prop|Sg|Nom	2	nsubj	_	_
+2	босьтіс	босьтны	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	бронза	бронза	NOUN	_	Sg|Nom	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Питер	Питер	PROPN	_	Prop|Sg|Nom	2	conj	_	_
+6	–	–	PUNCT	_	_	5	punct	_	_
+7	эзысь	эзысь	NOUN	_	Sg|Nom	5	orphan	_	_
+8	,	,	PUNCT	CLB	_	10	punct	_	_
+9	а	а	CC	_	_	10	cc	_	_
+10	Джейн	Джейн	PROPN	_	Prop|Sg|Nom	2	conj	_	_
+11	–	–	PUNCT	_	_	10	punct	_	_
+12	зарни	зарни	NOUN	_	Sg|Nom	10	orphan	_	_
+13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:10
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
@@ -320,30 +299,14 @@
 # text_fi = Onko Iguazu iso vai pieni maa?
 # text_olo = Ongo Iguazu suuri vai pieni mua?
 # text_mdf = Игуазсь оцю или ёмла мастор?
-"<Игаузу>"
-        "Игаузу" N Prop Sg Nom
-: 
-"<->"
-        "-" PUNCT
-: 
-"<этӧ>"
-        "этӧ" ?
-: 
-"<ыджыт>"
-        "ыджыт" A
-: 
-"<али>"
-        "али" Adv Pcle
-        "али" CC CC
-        "али" N Sg Nom
-: 
-"<учӧт>"
-        "учӧт" ?
-: 
-"<страна>"
-        "страна" N Sg Nom
-"<?>"
-        "?" CLB
+1	Игаузу	Игаузу	PROPN	_	Prop|Sg|Nom	4	dislocated	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	этӧ	этӧ	PRON	_	Dem|Sg|Nom	4	nsubj	_	_
+4	ыджыт	ыджыт	ADJ	_	_	0	root	_	_
+5	али	али	CC	_	_	7	cc	_	_
+6	учӧт	учӧт	ADJ	_	_	7	amod	_	_
+7	страна	страна	NOUN	_	Sg|Nom	4	conj	_	_
+8	?	?	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:11
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
@@ -352,36 +315,17 @@
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
 # text_olo = Ei voidu vallita Peter Smithua, eigo Mary Brownii.
 # text_mdf = Аф Петя Смит, аф Марья Браун ашесть кочкав.
-"<Эз>"
-        "оз" V Neg Ind Pr"t" Sg3
-: 
-"<позь>"
-        "позьны" V ConNeg
-: 
-"<бӧрйыны>"
-        "бӧрйыны" ?
-: 
-"<не>"
-        "не" Pcle
-: 
-"<Питер>"
-        "Питер" N Prop Sg Nom
-: 
-"<Смитӧс>"
-        "Смитӧс" N Prop Sg Acc
-"<,>"
-        "," CLB
-: 
-"<не>"
-        "не" Pcle
-: 
-"<Мери>"
-        "Мери" N Prop Sg Nom
-: 
-"<Браунӧс>"
-        "Браунӧс" ?
-"<.>"
-        "." CLB
+1	Эз	t	AUX	_	_	3	aux:neg	_	_
+2	позь	позьны	AUX	_	ConNeg	3	aux	_	_
+3	бӧрйыны	бӧрйыны	VERB	_	Inf	0	root	_	_
+4	не	не	AUX	_	_	6	cc:preconj	_	_
+5	Питер	Питер	PROPN	_	Prop|Sg|Nom	6	nmod	_	_
+6	Смитӧс	Смитӧс	PROPN	_	Prop|Sg|Acc	3	obj	_	_
+7	,	,	PUNCT	CLB	_	10	punct	_	_
+8	не	не	AUX	_	_	10	cc	_	_
+9	Мери	Мери	PROPN	_	Prop|Sg|Nom	10	nmod	_	_
+10	Браунӧс	Браунӧс	PROPN	_	Prop|Sg|Acc	6	conj	_	_
+11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
@@ -390,29 +334,14 @@
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_olo = Heil ei ole ovvostustu sit, ken sen kirjutti.
 # text_mdf = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
-"<Нія>"
-        "нія" Pron Pers Pl3 Nom
-: 
-"<озӧ>"
-        "оз" V Neg Ind Prs Pl3
-: 
-"<тӧдӧ>"
-        "тӧд" N Sg Ill
-        "тӧд" N Sg Nom PxSg1
-        "тӧдны" V Ind Prs Sg3
-"<,>"
-        "," CLB
-: 
-"<кин>"
-        "кин" N Sg Nom
-: 
-"<этӧ>"
-        "этӧ" ?
-: 
-"<гижис>"
-        "гижны" V Ind Prt1 Sg3
-"<.>"
-        "." CLB
+1	Нія	нія	PRON	_	Pers|Pl3|Nom	3	nsubj	_	_
+2	озӧ	оз	AUX	_	Neg|Ind|Prs|Pl3	3	aux:neg	_	_
+3	тӧдӧ	тӧдны	VERB	_	Ind|Prs|ConNegPl	0	root	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	кин	кин	PRON	_	Interr|Sg|Nom	7	nsubj	_	_
+6	этӧ	этӧ	PRON	_	Dem|Sg|Nom	7	obj	_	_
+7	гижис	гижны	VERB	_	Ind|Prt1|Sg3	3	ccomp	_	_
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:13
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
@@ -421,24 +350,11 @@
 # text_fi = Mitä katsot?
 # text_olo = Midäbo kačot?
 # text_mdf = Мезень лангс ванат?
-"<Мый>"
-        "мый" CS
-: 
-"<вылӧ>"
-        "выв" N Sg Ill
-        "выв" N Sg Nom PxSg1
-        "вылын" Adv Spat Ill
-        "вылын" Po Spat Sg Ill Po
-        "вылӧ" Adp Po Spat Sg Ill Po
-: 
-"<тэ>"
-        "тэ" Pron Pers Sg2 Cmp"l"
-        "тэ" Pron Pers Sg2 Nom
-: 
-"<видзӧтан>"
-        "видзӧтны" V Ind Prs Sg2
-"<?>"
-        "?" CLB
+1	Мый	мый	PRON	_	Interr|Sg|Nom	4	obl	_	_
+2	вылӧ	вылӧ	ADP	_	Po|Spat|Sg|Ill	1	case	_	_
+3	тэ	тэ	PRON	_	Pers|Sg2|Nom	4	nsubj	_	_
+4	видзӧтан	видзӧтны	VERB	_	Ind|Prs|Sg2	0	root	_	_
+5	?	?	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:14
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
@@ -447,33 +363,15 @@
 # text_fi = Milloin luulet voivasi tulla?
 # text_olo = Konzubo duumaičet voit tulla?
 # text_mdf = Кода арьсят, мзярда тон сават?
-"<Кыдз>"
-        "кыдз" Adv
-        "кыдз" N Sg Nom
-: 
-"<тэ>"
-        "тэ" Pron Pers Sg2 Cmp"l"
-        "тэ" Pron Pers Sg2 Nom
-: 
-"<думайтан>"
-        "думайтан" ?
-"<,>"
-        "," CLB
-: 
-"<кӧр>"
-        "кӧр" N Sg Nom
-        "кӧрны" V Imprt Sg2
-: 
-"<тэ>"
-        "тэ" Pron Pers Sg2 Cmp"l"
-: 
-"<верман>"
-        "верман" ?
-: 
-"<локны>"
-        "локны" ?
-"<?>"
-        "?" CLB
+1	Кыдз	кыдз	ADV	_	Interr	3	advmod	_	_
+2	тэ	тэ	PRON	_	Pers|Sg2|Nom	3	nsubj	_	_
+3	думайтан	думайтан	VERB	_	Ind|Prs|Sg2	0	root	_	_
+4	,	,	PUNCT	CLB	_	8	punct	_	_
+5	кӧр	кӧр	CS	_	_	8	mark	_	_
+6	тэ	тэ	PRON	_	Pers|Sg2|Nom	8	nsubj	_	_
+7	верман	верман	AUX	_	Ind|Prs|Sg2	8	aux	_	_
+8	локны	локны	VERB	_	Inf	3	ccomp	_	_
+9	?	?	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:15
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
@@ -482,37 +380,17 @@
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
 # text_olo = Häi osti mašinan, ga hänen velleh pyörän.
 # text_mdf = Сон рамась машина, а брадоц  аньцек велосипед.
-"<Сія>"
-        "сія" Pron Pers Sg3 Nom
-: 
-"<босьтіс>"
-        "босьтны" V Ind Prt1 Sg3
-: 
-"<машина>"
-        "машина" N Sg Nom
-"<,>"
-        "," CLB
-: 
-"<а>"
-        "а" CC CC
-: 
-"<сылӧн>"
-        "сія" Pron Pers Sg3 Cmp"l" Gen
-: 
-"<воныс>"
-        "во" N Sg Nom PxPl3
-        "вон" N Sg Nom PxSg3
-: 
-"<–>"
-        "–" PUNCT
-: 
-"<дзир>"
-        "дзир" N Sg Nom
-: 
-"<велосипед>"
-        "велосипед" N Sg Nom
-"<.>"
-        "." CLB
+1	Сія	сія	PRON	_	Pers|Sg3|Nom	2	nsubj	_	_
+2	босьтіс	босьтны	VERB	_	Ind|Prt1|Sg3	0	root	_	_
+3	машина	машина	NOUN	_	Sg|Nom	2	obj	_	_
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	а	а	CC	_	_	7	cc	_	_
+6	сылӧн	сія	PRON	_	Pers|Sg3|Gen	7	nmod	_	_
+7	воныс	вон	NOUN	_	Sg|Nom|PxSg3	2	conj	_	_
+8	–	–	PUNCT	_	_	7	punct	_	_
+9	дзир	дзир	ADV	_	Sg|Nom	7	orphan	_	_
+10	велосипед	велосипед	NOUN	_	Sg|Nom	7	orphan	_	_
+11	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:16
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
@@ -521,30 +399,14 @@
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
 # text_olo = Peter da Mari sevättihes da lähtiettih pertispäi.
 # text_mdf = Петя и Маря ашкордасть и  лиссть комнатаста.
-"<Питер>"
-        "Питер" N Prop Sg Nom
-: 
-"<да>"
-        "да" CC CC
-        "да" CS CS
-: 
-"<Мери>"
-        "Мери" N Prop Sg Nom
-: 
-"<кутчисисӧ>"
-        "кутчисисӧ" ?
-: 
-"<да>"
-        "да" CC CC
-        "да" CS CS
-: 
-"<петісӧ>"
-        "петны" V Ind Prt1 Pl3
-: 
-"<жырись>"
-        "жыр" N Sg Ela
-"<.>"
-        "." CLB
+1	Питер	Питер	PROPN	_	Prop|Sg|Nom	4	nsubj	_	_
+2	да	да	CC	_	_	3	cc	_	_
+3	Мери	Мери	PROPN	_	Prop|Sg|Nom	1	conj	_	_
+4	кутчисисӧ	кутчисисӧ	VERB	_	Ind|Prt1|Pl3	0	root	_	_
+5	да	да	CC	_	_	6	cc	_	_
+6	петісӧ	петны	VERB	_	Ind|Prt1|Pl3	4	conj	_	_
+7	жырись	жыр	NOUN	_	Sg|Ela	6	obl	_	_
+8	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:17
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
@@ -553,60 +415,23 @@
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 # text_olo = Hänel olis pidänyh olla prichoskua luadimas, ga häi erähien syylöin periä ei voinnuh sinä piän.
 # text_mdf = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
-"<Сылӧ>"
-        "сыв" N Sg Ill
-        "сыв" N Sg Nom PxSg1
-        "сывны" V Imprt Pl2
-        "сывны" V Ind Prs Sg3
-        "сія" Pron Pers Sg3 Cmp"l" Dat
-: 
-"<коліс>"
-        "ковны" V Ind Prt1 Sg3
-: 
-"<басӧка>"
-        "басӧк" Der/а
-: 
-"<лӧсьӧтны>"
-        "лӧсьӧтны" V Inf
-: 
-"<юрсисӧ>"
-        "юрси" N Sg PxSg3 Acc"3"
-"<,>"
-        "," CLB
-: 
-"<но>"
-        "но" CC
-: 
-"<мылякӧ>"
-        "мылякӧ" ?
-: 
-"<сія>"
-        "сія" Pron Pers Sg3 Nom
-"<лунӧ>"
-        "лун" N Sg Nom PxSg1
-: 
-"<сылӧ>"
-        "сыв" N Sg Ill
-        "сыв" N Sg Nom PxSg1
-        "сывны" V Ind Prs Sg3
-        "сія" Pron Pers Sg3 Cmp"l" Dat
-: 
-"<эз>"
-        "оз" V Neg Ind Pr"t" Sg3
-: 
-"<вӧв>"
-        "вӧвны" V ConNeg
-: 
-"<охота>"
-        "охота" ?
-: 
-"<сійӧ>"
-        "сія" Pron Pers Sg3"+Der/йӧ" Acc
-: 
-"<керны>"
-        "керны" V Inf
-"<.>"
-        "." CLB
+1	Сылӧ	сія	PRON	_	Pers|Sg3|Dat	4	obl	_	_
+2	коліс	ковны	AUX	_	Ind|Prt1|Sg3	4	aux	_	_
+3	басӧка	басӧка	ADV	_	_	4	advmod	_	_
+4	лӧсьӧтны	лӧсьӧтны	VERB	_	Inf	0	root	_	_
+5	юрсисӧ	юрси	NOUN	_	Sg|Acc|PxSg3	4	obj	_	_
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	но	но	CC	_	_	14	cc	_	_
+8	мылякӧ	мылякӧ	ADV	_	Indef	14	advmod	_	_
+9	сія	сія	PRON	_	Pers|Sg3|Nom	10	det	_	_
+10	лунӧ	лун	NOUN	_	Sg|Ill	14	obl	_	_
+11	сылӧ	сія	PRON	_	Pers|Sg3|Dat	14	obl	_	_
+12	эз	t	AUX	_	_	14	aux:neg	_	_
+13	вӧв	вӧвны	AUX	_	ConNeg	14	cop	_	_
+14	охота	охота	NOUN	_	Sg|Nom	4	conj	_	_
+15	сійӧ	сія	PRON	_	Pers|Sg3|Acc	16	obj	_	_
+16	керны	керны	VERB	_	Inf	14	advcl	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:18a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
@@ -615,46 +440,19 @@
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
-"<Ме>"
-        "ме" Pron Pers Sg1 Cmp"l"
-        "ме" Pron Pers Sg1 Nom
-: 
-"<эг>"
-        "оз" V Neg Ind Pr"t" Pl1
-        "оз" V Neg Ind Pr"t" Sg1
-: 
-"<вермы>"
-        "вермы" ?
-: 
-"<сійӧ>"
-        "сія" Pron Pers Sg3"+Der/йӧ" Acc
-: 
-"<вӧтны>"
-        "вӧтны" V ConNeg Pl3
-        "вӧтны" V Inf
-"<,>"
-        "," CLB
-: 
-"<сідз>"
-        "сідз" Adv
-: 
-"<кыдз>"
-        "кыдз" Adv
-        "кыдз" N Sg Nom
-: 
-"<сія>"
-        "сія" Pron Pers Sg3 Nom
-"<ӧддьӧн>"
-        "ӧддьӧн" Adv
-: 
-"<чожа>"
-        "чожа" A
-        "чожа" Adv
-: 
-"<котӧртіс>"
-        "котӧртны" V Ind Prt1 Sg3
-"<.>"
-        "." CLB
+1	Ме	ме	PRON	_	Pers|Sg1|Nom	5	nsubj	_	_
+2	эг	оз	AUX	_	Neg|Ind|Prt1|Sg1	5	aux:neg	_	_
+3	вермы	вермы	AUX	_	ConNeg	5	aux	_	_
+4	сійӧ	сія	PRON	_	Pers|Sg3|Acc	5	obj	_	_
+5	вӧтны	вӧтны	VERB	_	Inf	0	root	_	_
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	сідз	сідз	ADV	_	_	8	fixed	_	_
+8	кыдз	кыдз	ADV	_	_	12	mark	_	_
+9	сія	сія	PRON	_	Pers|Sg3|Nom	12	nsubj	_	_
+10	ӧддьӧн	ӧддьӧн	ADV	_	_	12	advmod	_	_
+11	чожа	чожа	ADV	_	_	12	advmod	_	_
+12	котӧртіс	котӧртны	VERB	_	Ind|Prt1|Sg3	5	ccomp	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:18b
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
@@ -663,40 +461,17 @@
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
 # text_olo = En ehtinyh hänele jälles, sendäh ku häi juoksi ylen terväh.
 # text_mdf = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
-"<Ме>"
-        "ме" Pron Pers Sg1 Cmp"l"
-        "ме" Pron Pers Sg1 Nom
-: 
-"<эг>"
-        "оз" V Neg Ind Pr"t" Pl1
-        "оз" V Neg Ind Pr"t" Sg1
-: 
-"<вермы>"
-        "вермы" ?
-: 
-"<сійӧ>"
-        "сія" Pron Pers Sg3"+Der/йӧ" Acc
-: 
-"<вӧтны>"
-        "вӧтны" V ConNeg Pl3
-        "вӧтны" V Inf
-"<,>"
-        "," CLB
-: 
-"<ӧддьӧн>"
-        "ӧддьӧн" Adv
-: 
-"<чожа>"
-        "чожа" A
-        "чожа" Adv
-: 
-"<котӧртіс>"
-        "котӧртны" V Ind Prt1 Sg3
-: 
-"<да>"
-        "да" CS CS
-"<.>"
-        "." CLB
+1	Ме	ме	PRON	_	Pers|Sg1|Nom	5	nsubj	_	_
+2	эг	оз	AUX	_	Neg|Ind|Prt1|Sg1	5	aux:neg	_	_
+3	вермы	вермы	AUX	_	Ind|Prs|ConNeg	5	aux	_	_
+4	сійӧ	сія	PRON	_	Pers|Sg3|Acc	5	obj	_	_
+5	вӧтны	вӧтны	VERB	_	Inf	0	root	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	ӧддьӧн	ӧддьӧн	ADV	_	_	9	advmod	_	_
+8	чожа	чожа	ADV	_	_	9	advmod	_	_
+9	котӧртіс	котӧртны	VERB	_	Ind|Prt1|Sg3	5	ccomp	_	_
+10	да	да	CS	_	_	9	mark	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:19
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
@@ -705,31 +480,15 @@
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
 # text_olo = Tämä on kirjaine Peteras da se tuodih egläi.
 # text_mdf = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
-"<Эта>"
-        "этайӧ" Pron Dem Sg Cmp"l"
-: 
-"<гижӧтыс>"
-        "гижӧт" N Sg Nom PxSg3
-: 
-"<Петрасянь>"
-        "Петрасянь" N Prop Sg Egr
-"<,>"
-        "," CLB
-: 
-"<и>"
-        "и" CC CC
-        "и" CS CS
-: 
-"<сійӧ>"
-        "сія" Pron Pers Sg3"+Der/йӧ" Acc
-: 
-"<вайисӧ>"
-        "вайны" V Ind Prt1 Pl3
-: 
-"<тӧн>"
-        "тӧн" ?
-"<.>"
-        "." CLB
+1	Эта	этайӧ	PRON	_	Dem|Sg|Nom	2	det	_	_
+2	гижӧтыс	гижӧт	NOUN	_	Sg|Nom|PxSg3	3	nsubj	_	_
+3	Петрасянь	Петрасянь	PROPN	_	Prop|Sg|Egr	0	root	_	_
+4	,	,	PUNCT	CLB	_	7	punct	_	_
+5	и	и	CC	_	_	7	cc	_	_
+6	сійӧ	сія	PRON	_	Pers|Sg3|Acc	7	obj	_	_
+7	вайисӧ	вайны	VERB	_	Ind|Prt1|Pl3	3	conj	_	_
+8	тӧн	тӧн	ADV	_	_	7	advmod	_	_
+9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = PonomarevaLarisa_brat_2018:20a
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
@@ -739,18 +498,14 @@
 # text_mdf = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 "<Сія>"
         "сія" Pron Pers Sg3 Nom
-: 
 "<быдмис>"
-        "быдмис" ?
-: 
+        "быдмис" V Ind Prt1 Sg3
 "<Парижын>"
         "Парижын" N Prop Sg Ine
 "<,>"
         "," CLB
-: 
 "<Франция>"
         "Франция" N Prop Sg Nom
-: 
 "<юркарын>"
         "юркар" N Sg Ine
 "<.>"
